@@ -3,7 +3,7 @@ Golang practice project
 
 - This is a sample project to explore different topics of go programming language.
 
-## useful commands
+## Useful commands
 ```golang
     - go mod init           // Initializes a new module in the current directory
     - go run main.go        // compile and run the program in a single step, without the need to create an executable file
@@ -15,9 +15,9 @@ Golang practice project
 ```
 
 ## Others
-| new()     | make() |
-| ---       | ---       |
-| Allocate memory but no INIT | Allocate memory and INIT|
+| new()                         | make() |
+| ---                           | ---    |
+| Allocate memory but no INIT   | Allocate memory and INIT |
 | You will get a memory address | You will get a memory address |
-| Zeroed storage | Non-zeroed storage |
+| Zeroed storage                | Non-zeroed storage |
 
